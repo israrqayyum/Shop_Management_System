@@ -33,7 +33,7 @@ To run this code in BlueJ or any Java IDE, follow these steps:
    - After compiling successfully, right-click on `Main` again and choose "Run" to execute the program.
 
 ## Contributors
-- Israr Qayyum (https://github.com/israrqayyum) - Developer
+- **Israr Qayyum** (https://github.com/israrqayyum) - Developer
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
