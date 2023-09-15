@@ -1,0 +1,92 @@
+Electronics
+Name: Smartphone
+Brand: iPhone 12 Pro Max
+Price: $1099.99
+Quantity: 8
+
+Name: Laptop
+Brand: Dell XPS 13
+Price: $1199.99
+Quantity: 5
+
+Name: Headphones
+Brand: Bose QuietComfort 35 II
+Price: $299.99
+Quantity: 12
+
+Name: Smartwatch
+Brand: Samsung Galaxy Watch 4
+Price: $249.99
+Quantity: 10
+
+Name: Bluetooth Speaker
+Brand: JBL Charge 4
+Price: $129.99
+Quantity: 15
+
+Name: Gaming Console
+Brand: Xbox Series X
+Price: $499.99
+Quantity: 3
+
+Clothing
+Name: T-Shirt
+Size: Medium
+Price: $19.99
+Quantity: 30
+
+Name: Jeans
+Size: 32/32
+Price: $39.99
+Quantity: 20
+
+Name: Dress
+Size: Small
+Price: $49.99
+Quantity: 15
+
+Name: Hoodie
+Size: Large
+Price: $29.99
+Quantity: 25
+
+Name: Sneakers
+Size: 9
+Price: $59.99
+Quantity: 18
+
+Name: Winter Jacket
+Size: XL
+Price: $79.99
+Quantity: 10
+
+Books
+Name: Novel
+Author: Jane Doe
+Price: $14.99
+Quantity: 50
+
+Name: Self-Help Book
+Author: John Smith
+Price: $12.99
+Quantity: 40
+
+Name: Science Fiction
+Author: Robert Johnson
+Price: $17.99
+Quantity: 35
+
+Name: Mystery Novel
+Author: Sarah Miller
+Price: $15.99
+Quantity: 45
+
+Name: Biography
+Author: David Lee
+Price: $19.99
+Quantity: 28
+
+Name: CookBook
+Author: Emily Davis
+Price: $24.99
+Quantity: 20
